@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "DBAPI",
+        "dotenv",
+        "onupdate",
+        "rdbs",
+        "sessionmaker",
+        "sqlalchemy"
+    ]
+}
